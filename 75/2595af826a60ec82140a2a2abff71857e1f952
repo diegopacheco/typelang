@@ -1,0 +1,44 @@
+src/main.ts
+  s_6c9a0beb24e86e::t_f0074ad2d5da14 1,590-601
+  s_6c9a0beb24e86e::t_e7857b4b2d8b13 2-589,602-731
+tests/run-tests.js
+  s_6c9a0beb24e86e::t_83e2dcab668865 52-63
+  s_6c9a0beb24e86e::t_e7857b4b2d8b13 1-51,64
+package.json
+  s_6c9a0beb24e86e::t_e7857b4b2d8b13 1-18
+programs/main.tl
+  s_6c9a0beb24e86e::t_e7857b4b2d8b13 1-24
+run.sh
+  s_6c9a0beb24e86e::t_e7857b4b2d8b13 1-2,4-9
+  s_6c9a0beb24e86e::t_c8ecf250dd0194 3
+repl.sh
+  s_6c9a0beb24e86e::t_e7857b4b2d8b13 1-2,4-5
+  s_6c9a0beb24e86e::t_c8ecf250dd0194 3
+tsconfig.json
+  s_6c9a0beb24e86e::t_e7857b4b2d8b13 1-15
+release.sh
+  s_6c9a0beb24e86e::t_c8ecf250dd0194 3,6
+  s_6c9a0beb24e86e::t_e7857b4b2d8b13 1-2,4-5
+.gitignore
+  s_6c9a0beb24e86e::t_c8ecf250dd0194 52
+docs/design.md
+  s_6c9a0beb24e86e::t_e7857b4b2d8b13 1-95
+README.md
+  s_6c9a0beb24e86e::t_e5c02efbe94acc 2-186
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "752595af826a60ec82140a2a2abff71857e1f952",
+  "prompts": {},
+  "sessions": {
+    "s_6c9a0beb24e86e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e5e12-d85d-7461-aec9-be4142546fe5",
+        "model": "gpt-5.5"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>"
+    }
+  }
+}
