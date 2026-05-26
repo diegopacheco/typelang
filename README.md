@@ -1,5 +1,7 @@
 # typelang
 
+<img src="typelang-logo.png" alt="typelang logo" width="200" />
+
 typelang is a small programming language implemented with TypeScript 6. It has Scala-like declarations, brace-based blocks, a lexer, parser, AST, and a tree-walking interpreter.
 
 The current target is a compact working language, not a full static type checker or native compiler.
